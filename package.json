@@ -57,6 +57,7 @@
   "dependencies": {
     "eslint-config-prettier": "^2.3.0",
     "prop-types": "^15.5.10",
+    "react-dom": "^16.2.0",
     "react-md": "^1.2.11"
   }
 }

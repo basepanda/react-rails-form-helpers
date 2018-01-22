@@ -1,4 +1,5 @@
 import * as Tags from "./tags"
+import React from 'react'
 import { nameWithContext } from "./utils"
 
 export const CheckBox = nameWithContext(Tags.CheckBoxTag)
